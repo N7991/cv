@@ -1,0 +1,89 @@
+.profile {
+    height: 90px;
+    width: 90px;
+    border: 2px solid #000;
+    border-radius: 100%;
+    background: #000;
+    margin-left: 330px;
+    top: 5px;
+    position: absolute;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.4);
+}
+
+#contact {
+    font-size: 16px;
+    font-weight: normal;
+    font-style: italic;
+}
+
+.about img {
+    height:90px;
+    width: 90px;
+    margin: 0 10px 0 10px;
+    border-radius: 100%;
+    float: left;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.4);
+}
+
+.link {
+    text-decoration: none;
+    color: #000;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
+
+.navigation {
+    display: inline-block;
+    margin-left: 1075px;
+    top: 0;
+    position: absolute;
+    background: #000;
+    background: linear-gradient( #394798, #fff);
+}
+
+.navigation li {
+    display: inline-block;
+    padding: 0 10px;
+}
+.navigation a{
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+    border-right: 2px solid rgba(0,0,0,0.4);
+    padding-right: 5px;
+}
+
+.navigation a:hover {
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+td {
+border: 1px solid #000;
+}
+
+.workTable {
+    border: 1px solid #000;
+}
+
+.workTable td {
+    padding: 0 10px;
+}
+
+.skillsTable {
+    border: 1px solid #000;
+}
+
+.skillsTable td {
+    padding: 0 10px;
+}
